@@ -1,0 +1,8 @@
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: admin
+
+employee logins 
+1. aditi@gmail.com      abhi 
